@@ -5,7 +5,7 @@ import java.io.IOException;
 import static java.lang.Math.log;
 import static java.lang.Math.sqrt;
 
-public class julia {
+public class Julia {
 
     static final int M = 4000;
     static final int N = 4000;
